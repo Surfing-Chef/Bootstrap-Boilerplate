@@ -8,6 +8,7 @@ My goal is to explore other options such as Bourbon, Compass, Gulp - to name a f
 ## 1. Installation
 1. Ensure node.js and Ruby are installed and up to date.
 2. Clean install wordpress into a folder called bootstrap_dev
+3. download wordpress text data xml and import into install
 3. Clone BB into bootstrap_dev\wp-content\themes\
 4. npm install --save-dev to ensure package.json dependencies are installed to theme directory
 5. Design and Develop
